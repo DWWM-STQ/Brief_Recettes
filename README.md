@@ -1,4 +1,4 @@
-# Les Recettes
+# [Les Recettes](./profile/Doc/cuisine.pdf)
 Auteur : Didier ROLLAND <br>
 Binôme : Amandine & Alvin
 
